@@ -5,4 +5,4 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ## Results
        
 ![alt text](https://github.com/Herbert-0820/Credit_Risk_Analysis/blob/main/R1.jpeg)
-![alt text](https://github.com/Herbert-0820/Credit_Risk_Analysis/blob/main/R1.jpeg)
+![alt text](https://github.com/Herbert-0820/Credit_Risk_Analysis/blob/main/R2.jpeg)
